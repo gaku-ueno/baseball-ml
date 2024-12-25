@@ -10,7 +10,7 @@
     - Learn how to apply machine learning principles you have learned in class and build a fully fleged machine learning model.
 
 ## Context
-- WRC+ (short for weighted runs created plus) is a statistic that measures a player's offensive output, that takes into account ballpark factors and run environment. This means that the statistic takes into account both factors specific to each baseball stadium (baseball stadiums are not standardized and differ from team to team), and the average offensive performance of all players at the time --some years have generally higher offensive output compared to other years. In 2019 the league offensive performance increased accross the board due to MLB using baseball that bounced off of the bat more. \
+- WRC+ (short for weighted runs created plus) is a statistic that measures a player's offensive output, that takes into account ballpark factors and run environment. This means that the statistic takes into account both factors specific to each baseball stadium (baseball stadiums are not standardized and differ from team to team), and the average offensive performance of all players at the time --some years have generally higher offensive output compared to other years. In 2019 the league offensive performance increased accross the board due to MLB using baseball that bounced off of the bat more.
 - Since WRC+ adjusts for these factors, we can isolate the player's performance mostly to each player making out analysis more thorough and accurate.
 
 ## Data Sources
