@@ -1,7 +1,7 @@
 # Baseball Machine Learning Project
 
 ## Background
-- I first became interested in Data Science through baseball. Shohei Ohtani's first MVP season, and the Giant's miracle 107 win season in 2021 reignited a passion for baseball. In addition to the action on the field, I became interested in the underlying numbers and statistics. Starting from batting average and ERA, I then learned more about stats like WRC+, barrel rate, exit velocity, etc. 
+- I first became interested in Data Science through baseball. Shohei Ohtani's first MVP season, and the Giants' miracle 107 win season in 2021 reignited a passion for baseball. In addition to the action on the field, I became interested in the underlying numbers and statistics. Starting from batting average and ERA, I then learned more about stats like WRC+, barrel rate, exit velocity, etc. 
 - This motivated me to start taking data science courses in college, to learn more about the theory of applying data. 
 - I started a data science project related to baseball a few years ago, but did not finish it, due to my lack of knowledge at the time. Now, with my enhanced knowledge in both programming and statistics, I wanted to revisit this topic and build something I could really be proud of.
 
